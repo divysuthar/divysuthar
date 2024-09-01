@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./name.svg" alt="Divy Suthar" />
+  <img src="./Images/name.svg" alt="Divy Suthar" />
 </h1>
 
 <p align="center">
@@ -40,23 +40,22 @@
 
 ## Programming Language
 <p>
-  <img src="divysuthar\Images\c.svg">
-  <img src="divysuthar\Images\cpp.svg">
-  <img src="divysuthar\Images\python.svg">
-  <img src="divysuthar\Images\js.svg">
+  <img src="./Images/c.svg" width='30'/>
+  <img src="./Images/cpp.svg" width='30'/>
+  <img src="./Images/python.svg" width='30'/>
+  <img src="./Images/js.svg" width='30'/>
 </p>
 
 ## Frameworks
 <p>
-  <img src="divysuthar\Images\django.svg">
-  <img src="divysuthar\Images\html.svg">
-  <img src="divysuthar\Images\git.svg">
-  <img src="divysuthar\Images\react.svg">
-  <img src="divysuthar\Images\mysql.svg">
-  <img src="divysuthar\Images\mongodb.svg">
+  <img src="./Images/django.svg" width='30'/>
+ <img src="./Images/mysql.svg" width='30'/>
+	<img src="./Images/mongodb.svg" width='30'/>
+	<img src="./Images/html.svg" width='30'/>
+	<img src="./Images/react.svg" width='30'/>
 </p>
 
 ## Tools
 <p>
-  <img src="divysuthar\Images\git.svg">
+  <img src="./Images/git.svg" width='30'/>
 </p>
