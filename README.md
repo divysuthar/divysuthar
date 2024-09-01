@@ -40,23 +40,23 @@
 
 ## Programming Language
 <p>
-  <img src="c.svg">
-  <img src="cpp.svg">
-  <img src="python.svg">
-  <img src="js.svg">
+  <img src="divysuthar\Images\c.svg">
+  <img src="divysuthar\Images\cpp.svg">
+  <img src="divysuthar\Images\python.svg">
+  <img src="divysuthar\Images\js.svg">
 </p>
 
 ## Frameworks
 <p>
-  <img src="django.svg">
-  <img src="html.svg">
-  <img src="git.svg">
-  <img src="react.svg">
-  <img src="mysql.svg">
-  <img src="mongodb.svg">
+  <img src="divysuthar\Images\django.svg">
+  <img src="divysuthar\Images\html.svg">
+  <img src="divysuthar\Images\git.svg">
+  <img src="divysuthar\Images\react.svg">
+  <img src="divysuthar\Images\mysql.svg">
+  <img src="divysuthar\Images\mongodb.svg">
 </p>
 
 ## Tools
 <p>
-  <img src="git.svg">
+  <img src="divysuthar\Images\git.svg">
 </p>
