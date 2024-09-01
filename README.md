@@ -49,8 +49,8 @@
 ## Frameworks
 <p>
   <img src="./Images/django.svg" width='30'/>
- <img src="./Images/mysql.svg" width='30'/>
-	<img src="./Images/mongodb.svg" width='30'/>
+	<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width='30'/>
+	<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width='30'/>
 	<img src="./Images/html.svg" width='30'/>
 	<img src="./Images/react.svg" width='30'/>
 </p>
